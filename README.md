@@ -35,7 +35,7 @@
 • Contribution to the design and development of e-commerce modules for an
 international account
 
-<h6 align="center">une 2022- August 2022 at BEAMTEL,Rabat</h1>
+<h6 align="center">June 2022- August 2022 at BEAMTEL,Rabat</h6>
 • Design and Development of the event application 5G Event
 Morocco by making use of:
 MongoDB React Native Express(NodeJS) Expo
