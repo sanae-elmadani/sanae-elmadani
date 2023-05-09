@@ -41,13 +41,4 @@ international account</p>
 Morocco by making use of:
 MongoDB React Native Express(NodeJS) Expo</p>
 
-<h6>April 2022-June 2022 at Caisse Marocaine des Retraites,Rabat<h6>
-  
-<p>Implementation of a design thinking and lean startup approach to produce an
-MVP for the benefit of the beneficiaries when declaring a death
-  Design Thinking lean startup Figma</p>
-  
-<h6 >August 2021-September 2021 at  CreaNet,Casablanca<h6>
-  
-<p>Reverse Engineering a desktop application using the
-  tool dotpeek</p>
+
