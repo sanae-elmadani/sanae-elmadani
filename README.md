@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Sanae!</h1>
 
-<p align="center">I'm a software engineer based in Morocco.I love building things that make people's lives easier.
+<p >I'm a software engineer based in Morocco.I love building things that make people's lives easier.
   Currently,I am an intern at SQLI where I work collaboratively with my team on an international e-commerce website based on SAP Hybris.</p>
   
  ## EDUCATION
