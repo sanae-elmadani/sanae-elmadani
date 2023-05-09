@@ -30,18 +30,19 @@
 </p>
 
 ## PROFESSIONAL EXPERIENCE
-<h6 align="center">March 2023- August 2023 at SQLI Maroc,Rabat</h1>
+<h6 align="center">March 2023- August 2023 at SQLI Maroc,Rabat</h6>
 
 • Contribution to the design and development of e-commerce modules for an
 international account
- June 2022- August 2022 at BEAMTEL,Rabat
+
+<h6 align="center">une 2022- August 2022 at BEAMTEL,Rabat</h1>
 • Design and Development of the event application 5G Event
 Morocco by making use of:
 MongoDB React Native Express(NodeJS) Expo
- April 2022-June 2022 at Caisse Marocaine des Retraites,Rabat
+<h6 align="center">April 2022-June 2022 at Caisse Marocaine des Retraites,Rabat<h6>
 • Implementation of a design thinking and lean startup approach to produce an
 MVP for the benefit of the beneficiaries when declaring a death
 Design Thinking lean startup Figma
- August 2021-September 2021 at  CreaNet,Casablanca
+<h6 align="center">August 2021-September 2021 at  CreaNet,Casablanca<h6>
 • Reverse Engineering a desktop application using the
 tool dotpeek
