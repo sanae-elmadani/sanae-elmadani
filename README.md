@@ -31,7 +31,7 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-# March 2023- August 2023 at SQLI Maroc,Rabat
+##### March 2023- August 2023 at SQLI Maroc,Rabat
 • Contribution to the design and development of e-commerce modules for an
 international account
  June 2022- August 2022 at BEAMTEL,Rabat
