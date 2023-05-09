@@ -11,6 +11,7 @@
  
  . Scientific baccalaureate
  
+ 
 ## Skills
 
 <p align="center">
@@ -30,6 +31,17 @@
 </p>
 
 ## PROFESSIONAL EXPERIENCE
+<h6>March 2023- August 2023 at SQLI Maroc,Rabat</h6>
+
+<p>Contribution to the design and development of e-commerce modules for an
+international account</p>
+
+<h6 >June 2022- August 2022 at BEAMTEL,Rabat</h6>
+
+<p>Design and Development of the event application 5G Event
+Morocco by making use of:
+MongoDB React Native Express(NodeJS) Expo</p>
+
 <h6>March 2023- August 2023 at SQLI Maroc,Rabat</h6>
 
 <p>Contribution to the design and development of e-commerce modules for an
