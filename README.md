@@ -14,19 +14,19 @@
  
 ## Skills
 
-<p align="center">
+<p >
   Here are some of the skills I've acquired during my career as a software engineer:
 </p>
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Backend-Java%20%7C%20JEE%20%7C%20Spring%20Boot%20%7C%20SAP%20Hybris-orange">
 </p>
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Frontend-React-blue">
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Full--stack-Node.js-green">
 </p>
 
