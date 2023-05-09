@@ -36,13 +36,18 @@
 international account
 
 <h6 >June 2022- August 2022 at BEAMTEL,Rabat</h6>
+
 • Design and Development of the event application 5G Event
 Morocco by making use of:
 MongoDB React Native Express(NodeJS) Expo
+
 <h6 >April 2022-June 2022 at Caisse Marocaine des Retraites,Rabat<h6>
+  
 • Implementation of a design thinking and lean startup approach to produce an
 MVP for the benefit of the beneficiaries when declaring a death
 Design Thinking lean startup Figma
+  
 <h6 >August 2021-September 2021 at  CreaNet,Casablanca<h6>
+  
 • Reverse Engineering a desktop application using the
 tool dotpeek
