@@ -1,6 +1,6 @@
 # Hello, I'm Sanae! 👋
 
-### Java Backend Developer | Payment Systems & FinTech
+### Java Backend Developer | Payment Systems 
 
 I'm a **Java Backend Developer** based in Morocco, specializing in backend development for the **Payment Industry**.
 
@@ -85,5 +85,5 @@ Institut [Name of Institution], Morocco
 
 ## 📫 Let's Connect!
 
-I'm always interested in backend engineering, Java technologies, FinTech, and payment systems.
+I'm always interested in backend engineering, Java technologies and payment systems.
 
