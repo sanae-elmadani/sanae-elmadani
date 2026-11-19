@@ -1,57 +1,91 @@
-<h1 align="center">Hello, I'm Sanae!</h1>
+# Hello, I'm Sanae! 👋
 
-<p >I'm a software engineer based in Morocco.I love building things that make people's lives easier.
-  Currently,I am an intern at SQLI where I work collaboratively with my team on an international e-commerce website based on SAP Hybris.</p>
-  
- ## EDUCATION
+### Java Backend Developer | Payment Systems & FinTech
 
- . Engineering cycle, Advanced Software Engineering for Digital Services (ASEDS) at the Institut National des Postes et Télécommunications
-  
- . Preparatory classes for the Grandes Ecoles of engineering option PCSI/PSI)
- 
- . Scientific baccalaureate
- 
- 
-## Skills
+I'm a **Java Backend Developer** based in Morocco, specializing in backend development for the **Payment Industry**.
 
-<p >
-  Here are some of the skills I've acquired during my career as a software engineer:
-</p>
+I have strong experience in designing, developing, testing, and delivering RESTful APIs for payment systems, with a particular focus on corporate payment solutions and card management.
 
-<p >
-  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20JEE%20%7C%20Spring%20Boot%20%7C%20SAP%20Hybris-orange">
-</p>
+I enjoy building reliable, secure, and maintainable backend applications, applying software engineering best practices and contributing to the entire API development lifecycle.
 
-<p >
-  <img src="https://img.shields.io/badge/Frontend-React-blue">
-</p>
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Full--stack-Node.js-green">
-</p>
+## 💼 Professional Expertise
 
-## PROFESSIONAL EXPERIENCE
-<h6>March 2023- August 2023 at SQLI Maroc,Rabat</h6>
+- **Payment Industry:** Corporate Payment Solutions, PAN Lifecycle Management, Card Management, HSM Integration.
+- **Backend Development:** Java, Spring Boot, RESTful API Design & Development.
+- **API Engineering:** API Architecture, Design, Development, Integration, Unit Testing and Delivery.
+- **Software Engineering:** UML Modeling, Technical Design, Clean Code and Software Quality.
+- **Delivery & Integration:** Git, Jenkins, JBoss.
 
-<p>Contribution to the design and development of e-commerce modules for an
-international account</p>
+## 🛠️ Technical Skills
 
-<h6 >June 2022- August 2022 at BEAMTEL,Rabat</h6>
+**Programming Languages**
+- Java (SE 17, SE 21)
+- SQL
 
-<p>Design and Development of the event application 5G Event
-Morocco by making use of:
-MongoDB React Native Express(NodeJS) Expo</p>
+**Backend & Frameworks**
+- Spring Boot
+- Spring Framework
+- REST APIs
 
-<h6>April 2022-June 2022 at Caisse Marocaine des Retraites,Rabat</h6>
+**Databases**
+- Oracle Database
+- SQL
 
-<p>Implementation of a design thinking and lean startup approach to produce an
-MVP for the benefit of the beneficiaries when declaring a death
-Design Thinking lean startup Figma</p>
+**Payment Technologies**
+- Corporate Payment Solutions
+- PAN Lifecycle Management
+- Card Management
+- Hardware Security Module (HSM)
 
-<h6 >August 2021-September 2021 at CreaNet,Casablanca</h6>
+**DevOps & Application Servers**
+- Git
+- Jenkins
+- JBoss
 
-<p> Reverse Engineering a desktop application using the
-tool dotpeek</p>
+**Design & Modeling**
+- UML
+- API Design
+- Software Architecture
+
+---
+
+## 🎓 Education
+
+**Engineering Cycle – Advanced Software Engineering for Digital Services (ASEDS)**  
+Institut [Name of Institution], Morocco
+
+---
+
+## 🏆 Certifications
+
+- **Oracle Certified Professional: Java SE 21 Developer** — Oracle | December 2025
+- **Oracle Certified Professional: Java SE 17 Developer** — Oracle | July 2025
+- **Oracle Database SQL Certified Associate** — Oracle | April 2026
+
+## 📚 Currently Learning
+
+- Preparing for the **Spring Professional Certification**.
+- Deepening my knowledge of Spring ecosystem, backend architecture, and enterprise application development.
+
+---
+
+## 🎯 What I Do
+
+- Design and develop RESTful APIs for payment applications.
+- Work on corporate payment and card management solutions.
+- Implement PAN lifecycle management functionalities.
+- Integrate backend services with security components such as HSM.
+- Write unit tests to ensure code quality and reliability.
+- Contribute to API delivery and deployment processes.
+- Apply UML modeling and software engineering principles to technical design.
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in backend engineering, Java technologies, FinTech, and payment systems.
 
 
 
